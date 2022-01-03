@@ -12,7 +12,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "Test [NAME]",
+    "name": "Test Automatic Download",
     "author": "BD",
     "description": "",
     "blender": (2, 80, 0),
