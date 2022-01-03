@@ -8,7 +8,7 @@
                 1
             ],
             "allow_automatic_download": true,
-            "download_url": "https://github.com/animate1978/MB-Lab/archive/refs/heads/master.zip",
+            "download_url": "https://github.com/BD-Review/test-automatic-download/archive/refs/heads/main.zip",
             "minimum_blender_version": [
                         2,
                         83,
