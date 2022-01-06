@@ -26,7 +26,7 @@ bl_info = {
 
 
 def register():
-    pass
+    print("Hello World!")
 
 
 def unregister():
