@@ -27,6 +27,7 @@ bl_info = {
 
 def register():
     print("Hello World!")
+    print("Isn't this amazing? I'm getting automatic Updates!")
 
 
 def unregister():
