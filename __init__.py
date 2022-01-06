@@ -14,7 +14,7 @@
 bl_info = {
     "name": "Test Automatic Download",
     "author": "BD",
-    "description": "",
+    "description": "This is a great, working test addon!",
     "blender": (2, 80, 0),
     "version": (0, 0, 0),
     "location": "",
