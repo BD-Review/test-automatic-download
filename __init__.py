@@ -30,4 +30,5 @@ def register():
 
 
 def unregister():
-    pass
+    print("Bye Bye World!")
+
