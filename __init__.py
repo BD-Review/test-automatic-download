@@ -16,10 +16,10 @@ bl_info = {
     "author": "BD",
     "description": "This is a great, working test addon!",
     "blender": (2, 80, 0),
-    "version": (0, 0, 0),
+    "version": (0, 0, 1),
     "location": "",
-    "warning": "",
-    "tracker_url": "https://github.com/BD-Review/tests_basis/issues",
+    "warning": "I have just been updated!",
+    "tracker_url": "https://github.com/BD-Review/test-automatic-download/issues",
     "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-automatic-download/main/endpoint.json",
     "category": "Generic"
 }
@@ -28,6 +28,7 @@ bl_info = {
 def register():
     print("Hello World!")
     print("Isn't this amazing? I'm getting automatic Updates!")
+    print("Hello from Version 0.0.1")
 
 
 def unregister():
