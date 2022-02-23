@@ -5,7 +5,7 @@
             "version": [
                 0,
                 0,
-                2
+                3
             ],
             "allow_automatic_download": true,
             "download_url": "https://github.com/BD-Review/test-automatic-download/archive/refs/heads/main.zip",
